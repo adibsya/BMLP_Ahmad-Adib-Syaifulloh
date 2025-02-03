@@ -29,11 +29,10 @@ Proyek ini bertujuan untuk mengelompokkan pelanggan ke dalam beberapa cluster be
 
 ## 📁 **Struktur Repository**
 Berikut adalah struktur file dalam proyek ini:
-- `Clustering_Proses.ipynb`: Notebook Python untuk proses clustering.
-- `Klasifikasi_Proses.ipynb`: Notebook Python untuk proses klasifikasi.
+- `[Clustering]_Submission_Akhir_BMLP_Ahmad_Adib.ipynb`: Notebook Python untuk proses clustering.
+- `[Klasifikasi]_Submission_Akhir_BMLP_Ahmad_Adib.ipynb`: Notebook Python untuk proses klasifikasi.
 - `Customers.csv`: Dataset awal yang digunakan dalam proyek.
 - `Customers_with_Clusters.csv`: Dataset hasil clustering dengan label cluster baru.
-- `Output_Prediksi.csv`: Hasil prediksi klasifikasi, memuat label prediksi untuk data uji.
 
 ---
 
